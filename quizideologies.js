@@ -1,16 +1,16 @@
 ideologies = [
     
     {
-        "name": "Fascism",
-        "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini.",
+        "name": "法西斯主义",
+        "desc": "法西斯主义是专制主义的一种形式，它包含了专制的超民族主义。乔万尼•金泰勒（Giovanni Gentile）创立了这种意识形态，著名的法西斯主义者包括墨索里尼。",
         "i18n": {
             "de": {
-                "name": "Fascism",
-                "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini."
+                "name": "法西斯主义",
+                "desc": "法西斯主义是专制主义的一种形式，它包含了专制的超民族主义。乔万尼•金泰勒（Giovanni Gentile）创立了这种意识形态，著名的法西斯主义者包括墨索里尼。"
             },
             "ko": {
-                "name": "Fascism",
-                "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini."
+                "name": "法西斯主义",
+                "desc": "法西斯主义是专制主义的一种形式，它包含了专制的超民族主义。乔万尼•金泰勒（Giovanni Gentile）创立了这种意识形态，著名的法西斯主义者包括墨索里尼。"
             }
         },
         "stats": {
@@ -24,16 +24,16 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
-        "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler.",
+        "name": "纳粹主义",
+        "desc": "纳粹主义是一种基于种族和种族来分配权力和机会的法西斯主义形式。这是纳粹党的意识形态，它是由安东·德雷克斯勒（Anton Drexler）创立并由阿道夫·希特勒（Adolf Hitler）推广的。",
         "i18n": {
             "de": {
-                "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler."
+                "name": "纳粹主义",
+                "desc": "纳粹主义是一种基于种族和种族来分配权力和机会的法西斯主义形式。这是纳粹党的意识形态，它是由安东·德雷克斯勒（Anton Drexler）创立并由阿道夫·希特勒（Adolf Hitler）推广的。"
             },
             "ko": {
-                "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler."
+                "name": "纳粹主义",
+                "desc": "纳粹主义是一种基于种族和种族来分配权力和机会的法西斯主义形式。这是纳粹党的意识形态，它是由安东·德雷克斯勒（Anton Drexler）创立并由阿道夫·希特勒（Adolf Hitler）推广的。"
             }
         },
         "stats": {
@@ -47,16 +47,16 @@ ideologies = [
         }
     },
     {
-        "name": "Absolute Monarchism",
-        "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically.",
+        "name": "绝对君主制",
+        "desc": "绝对君主制是专制独裁的意识形态。君主具有绝对权力，领导者是世袭的。",
         "i18n": {
             "de": {
-                "name": "Absolute Monarchism",
-                "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically."
+                "name": "绝对君主制",
+                "desc": "绝对君主制是专制独裁的意识形态。君主具有绝对权力，领导者是世袭的。"
             },
             "ko": {
-                "name": "Absolute Monarchism",
-                "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically."
+                "name": "绝对君主制",
+                "desc": "绝对君主制是专制独裁的意识形态。君主具有绝对权力，领导者是世袭的。"
             }
         },
         "stats": {
@@ -70,16 +70,16 @@ ideologies = [
         }
     },
     {
-        "name": "Feudalism",
-        "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land.",
+        "name": "封建主义",
+        "desc": "封建主义是一种下层阶级给予食物，保护和金钱（取决于阶级）给上层阶级，以换取土地的一种意识形态。",
         "i18n": {
             "de": {
-                "name": "Feudalism",
-                "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
+                "name": "封建主义",
+                "desc": "封建主义是一种下层阶级给予食物，保护和金钱（取决于阶级）给上层阶级，以换取土地的一种意识形态。"
             },
             "ko": {
-                "name": "Feudalism",
-                "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
+                "name": "封建主义",
+                "desc": "封建主义是一种下层阶级给予食物，保护和金钱（取决于阶级）给上层阶级，以换取土地的一种意识形态。"
             }
         },
         "stats": {
@@ -93,16 +93,16 @@ ideologies = [
         }
     },
     {
-        "name": "Constitutional Monarchism",
-        "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc.",
+        "name": "君主立宪制",
+        "desc": "君主立宪制是君主制的一种变体，统治君主需要遵循宪法才能统治。它存在于英国，西班牙，瑞典等欧洲国家。",
         "i18n": {
             "de": {
-                "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
+                "name": "君主立宪制",
+                "desc": "君主立宪制是君主制的一种变体，统治君主需要遵循宪法才能统治。它存在于英国，西班牙，瑞典等欧洲国家。"
             },
             "ko": {
-                "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
+                "name": "君主立宪制",
+                "desc": "君主立宪制是君主制的一种变体，统治君主需要遵循宪法才能统治。它存在于英国，西班牙，瑞典等欧洲国家。"
             }
         },
         "stats": {
@@ -116,16 +116,16 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
-        "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes.",
+        "name": "保守主义",
+        "desc": "保守主义是一种倾向于主要是维护现状的意识形态。保守主义者通常支持外交干预主义，增加军费开支和降低税收。",
         "i18n": {
             "de": {
-                "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes."
+                "name": "保守主义",
+                "desc": "保守主义是一种倾向于主要是维护现状的意识形态。保守主义者通常支持外交干预主义，增加军费开支和降低税收。"
             },
             "ko": {
-                "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes."
+                "name": "保守主义",
+                "desc": "保守主义是一种倾向于主要是维护现状的意识形态。保守主义者通常支持外交干预主义，增加军费开支和降低税收。"
             }
         },
         "stats": {
@@ -139,16 +139,16 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Conservatism",
-        "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
+        "name": "新保守主义",
+        "desc": "新保守主义是保守主义的一种形式，它不喜欢自由党的太平洋主义政策。新保守主义者认为西方国家的目标是将自己的榜样推向世界。它们更加国际化。",
         "i18n": {
             "de": {
-                "name": "Neo-Conservatism",
-                "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
+                "name": "新保守主义",
+                "desc": "新保守主义是保守主义的一种形式，它不喜欢自由党的太平洋主义政策。新保守主义者认为西方国家的目标是将自己的榜样推向世界。它们更加国际化。"
             },
             "ko": {
-                "name": "Neo-Conservatism",
-                "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
+                "name": "新保守主义",
+                "desc": "新保守主义是保守主义的一种形式，它不喜欢自由党的太平洋主义政策。新保守主义者认为西方国家的目标是将自己的榜样推向世界。它们更加国际化。"
             }
         },
         "stats": {
@@ -162,16 +162,16 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarianism",
-        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes.",
+        "name": "自由主义",
+        "desc": "自由主义者通常在文化上是激进的，但在财政上是保守的，他们想要一个较小的政府，以及废除强制纳税。",
         "i18n": {
             "de": {
-                "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes."
+                "name": "自由主义",
+                "desc": "自由主义者通常在文化上是激进的，但在财政上是保守的，他们想要一个较小的政府，以及废除强制纳税。"
             },
             "ko": {
-                "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes."
+                "name": "自由主义",
+                "desc": "自由主义者通常在文化上是激进的，但在财政上是保守的，他们想要一个较小的政府，以及废除强制纳税。"
             }
         },
         "stats": {
@@ -185,16 +185,16 @@ ideologies = [
         }
     },
     {
-        "name": "Individualist Anarchism",
-        "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government.",
+        "name": "个人无政府主义",
+        "desc": "个人无政府主义是强烈倡导个人主义并支持无政府主义的意识形态。",
         "i18n": {
             "de": {
-                "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government."
+                "name": "个人无政府主义",
+                "desc": "个人无政府主义是强烈倡导个人主义并支持无政府主义的意识形态。"
             },
             "ko": {
-                "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government."
+                "name": "个人无政府主义",
+                "desc": "个人无政府主义是强烈倡导个人主义并支持无政府主义的意识形态。"
             }
         },
         "stats": {
@@ -208,16 +208,16 @@ ideologies = [
         }
     },
     {
-        "name": "Agorism",
-        "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics.",
+        "name": "黑市主义（阿哥拉主义）",
+        "desc": "黑市主义者认为所有人类关系都应通过和平革命和反经济学来完成。",
         "i18n": { 
             "de": {
-                "name": "Agorism",
-                "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics."
+                "name": "黑市主义（阿哥拉主义）",
+                "desc": "黑市主义者认为所有人类关系都应通过和平革命和反经济学来完成。"
             },
             "ko": {
-                "name": "Agorism",
-                "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics."
+                "name": "黑市主义（阿哥拉主义）",
+                "desc": "黑市主义者认为所有人类关系都应通过和平革命和反经济学来完成。"
             }
         },
         "stats": {
@@ -231,16 +231,16 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
-        "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft.",
+        "name": "无政府资本主义",
+        "desc": "无政府资本主义是一种无政府主义意识形态，在个人权利和自由方面具有很高的优先地位。它是无政府状态和资本主义的极端形式。它认为税收是盗窃的一种形式。",
         "i18n": {
             "de": {
-                "name": "Anarcho-Capitalism",
-                "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft."
+                "name": "无政府资本主义",
+                "desc": "无政府资本主义是一种无政府主义意识形态，在个人权利和自由方面具有很高的优先地位。它是无政府状态和资本主义的极端形式。它认为税收是盗窃的一种形式。"
             },
             "ko": {
-                "name": "Anarcho-Capitalism",
-                "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft."
+                "name": "无政府资本主义",
+                "desc": "无政府资本主义是一种无政府主义意识形态，在个人权利和自由方面具有很高的优先地位。它是无政府状态和资本主义的极端形式。它认为税收是盗窃的一种形式。"
             }
         },
         "stats": {
@@ -254,16 +254,16 @@ ideologies = [
         }
     },
     {
-        "name": "Minarchism",
-        "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for enforcing laws. This type of government is called the Night-Watchman State.",
+        "name": "民粹主义",
+        "desc": "民粹主义是一个需要很小的政府的意识形态。他们认为政府的目的只是为了执行法律。这种政府被称为守夜人政府。",
         "i18n": {
             "de": {
-                "name": "Minarchism",
-                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for  enforcing laws. This type of government is called the Night-Watchman State."
+                "name": "民粹主义",
+                "desc": "民粹主义是一个需要很小的政府的意识形态。他们认为政府的目的只是为了执行法律。这种政府被称为守夜人政府。"
             },
             "ko": {
-                "name": "Minarchism",
-                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for enforcing laws. This type of government is called the Night-Watchman State."
+                "name": "民粹主义",
+                "desc": "民粹主义是一个需要很小的政府的意识形态。他们认为政府的目的只是为了执行法律。这种政府被称为守夜人政府。"
             }
         },
         "stats": {
@@ -278,16 +278,16 @@ ideologies = [
     },
     
     {
-        "name": "Technocracy",
-        "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation.",
+        "name": "科技专政",
+        "desc": "科技专政是一种提倡科学家应该统治国家的意识形态。",
         "i18n": {
             "de": {
-                "name": "Technocracy",
-                "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation."
+                "name": "科技专政",
+                "desc": "科技专政是一种提倡科学家应该统治国家的意识形态。"
             },
             "ko": {
-                "name": "Technocracy",
-                "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation."
+                "name": "科技专政",
+                "desc": "科技专政是一种提倡科学家应该统治国家的意识形态。"
             }
         },
         "stats": {
@@ -301,16 +301,16 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
-        "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology.",
+        "name": "新自由主义",
+        "desc": "新自由主义是一种以自由市场为导向的改革思想，通常在文化上是左倾的。减少政府影响也是该思想的重要组成部分。",
         "i18n": {
             "de": {
-                "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology."
+                "name": "新自由主义",
+                "desc": "新自由主义是一种以自由市场为导向的改革思想，通常在文化上是左倾的。减少政府影响也是该思想的重要组成部分。"
             },
             "ko": {
-                "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology."
+                "name": "新自由主义",
+                "desc": "新自由主义是一种以自由市场为导向的改革思想，通常在文化上是左倾的。减少政府影响也是该思想的重要组成部分。"
             }
         },
         "stats": {
@@ -324,16 +324,16 @@ ideologies = [
         }
     },
     {
-        "name": "Paleolibertarianism",
-        "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state.",
+        "name": "古希腊主义",
+        "desc": "古希腊主义者基本上是自由主义者，但在文化上也很保守。他们想要一个小国家。",
         "i18n": {
             "de": {
-                "name": "Paleolibetarianism",
-                "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state."
+                "name": "古希腊主义",
+                "desc": "古希腊主义者基本上是自由主义者，但在文化上也很保守。他们想要一个小国家。"
             },
             "ko": {
-                "name": "Paleolibetarianism",
-                "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state."
+                "name": "古希腊主义",
+                "desc": "古希腊主义者基本上是自由主义者，但在文化上也很保守。他们想要一个小国家。"
             }
         },
         "stats": {
@@ -347,16 +347,16 @@ ideologies = [
         }
     },
     {
-        "name": "Georgism",
-        "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes.",
+        "name": "乔治主义",
+        "desc": "乔治主义认为土地应该是公共拥有的。他们认为，如果一个人使用土地，他们应该缴纳土地税，以取代所有其他税。",
         "i18n": {
             "de": {
-                "name": "Georgism",
-                "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes."
+                "name": "乔治主义",
+                "desc": "乔治主义认为土地应该是公共拥有的。他们认为，如果一个人使用土地，他们应该缴纳土地税，以取代所有其他税。"
             },
             "ko": {
-                "name": "Georgism",
-                "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes."
+                "name": "乔治主义",
+                "desc": "乔治主义认为土地应该是公共拥有的。他们认为，如果一个人使用土地，他们应该缴纳土地税，以取代所有其他税。"
             }
         },
         "stats": {
@@ -370,16 +370,16 @@ ideologies = [
         }
     },
     {
-        "name": "Geo-Libertarianism",
-        "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned.",
+        "name": "地缘自由主义",
+        "desc": "地缘自由主义是具有自由主义者价值观的乔治主义者。乔治主义是一种土地不被视为私有财产，而被征税并为公有的经济体系。",
         "i18n": {
             "de": {
-                "name": "Geo-Libertarianism",
-                "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned."
+                "name": "地缘自由主义",
+                "desc": "地缘自由主义是具有自由主义者价值观的乔治主义者。乔治主义是一种土地不被视为私有财产，而被征税并为公有的经济体系。"
             },
             "ko": {
-                "name": "Geo-Libertarianism",
-                "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned."
+                "name": "地缘自由主义",
+                "desc": "地缘自由主义是具有自由主义者价值观的乔治主义者。乔治主义是一种土地不被视为私有财产，而被征税并为公有的经济体系。"
             }
         },
         "stats": {
@@ -393,16 +393,16 @@ ideologies = [
         }
     },
     {
-        "name": "Hoppeanism",
-        "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft.",
+        "name": "霍普主义",
+        "desc": "霍普主义是无政府资本主义的保守派。它支持自由放任的经济和国家的灭绝。它认为税收是盗窃的一种形式。",
         "i18n": {
             "de": {
-                "name": "Hoppeanism",
-                "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft."
+                "name": "霍普主义",
+                "desc": "霍普主义是无政府资本主义的保守派。它支持自由放任的经济和国家的灭绝。它认为税收是盗窃的一种形式。"
             },
             "ko": {
-                "name": "Hoppeanism",
-                "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft."
+                "name": "霍普主义",
+                "desc": "霍普主义是无政府资本主义的保守派。它支持自由放任的经济和国家的灭绝。它认为税收是盗窃的一种形式。"
             }
         },
         "stats": {
@@ -416,16 +416,16 @@ ideologies = [
         }
     },
     {
-        "name": "Centre-Right Politics",
-        "desc": "People in the Centre-Right are right-leaning Centrists. Apart from being moderately Conservative, they are neutral in most other views.",
+        "name": "中间派右翼主义",
+        "desc": "中间派右翼主义是右倾的中间派意识形态。除了适度的保守主义外，它们在大多数其他观点中都是中立的。",
         "i18n": {
             "de": {
-                "name": "Centre-Rightism",
-                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from moderately Conservative, they are neutral in most other views."
+                "name": "中间派右翼主义",
+                "desc": "中间派右翼主义是右倾的中间派意识形态。除了适度的保守主义外，它们在大多数其他观点中都是中立的。"
             },
             "ko": {
-                "name": "Centre-Rightism",
-                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from moderately Conservative, they are neutral in most other views."
+                "name": "中间派右翼主义",
+                "desc": "中间派右翼主义是右倾的中间派意识形态。除了适度的保守主义外，它们在大多数其他观点中都是中立的。"
             }
         },
         "stats": {
@@ -439,16 +439,16 @@ ideologies = [
         }
     },
     {
-        "name": "Green Libertarianism",
-        "desc": "Green libertarians are generally libertarians with a higher importance for the environment.",
+        "name": "绿色自由主义",
+        "desc": "绿色自由主义者通常是对环境具有更高重要性的自由主义者。",
         "i18n": {
             "de": {
-                "name": "Green Libertarianism",
-                "desc": "Green libertarians are generally libertarians with a higher importance for the environment."
+                "name": "绿色自由主义",
+                "desc": "绿色自由主义者通常是对环境具有更高重要性的自由主义者。"
             },
             "ko": {
-                "name": "Green Libertarianism",
-                "desc": "Green libertarians are generally libertarians with a higher importance for the environment."
+                "name": "绿色自由主义",
+                "desc": "绿色自由主义者通常是对环境具有更高重要性的自由主义者。"
             }
         },
         "stats": {
@@ -462,16 +462,16 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Monarchy",
-        "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule.",
+        "name": "君权神授制",
+        "desc": "君权神授制是使用宗教作为国家统治工具的君主制，经常使用宗教组织来统治。",
         "i18n": {
             "de": {
-                "name": "Theocratic Monarchy",
-                "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule."
+                "name": "君权神授制",
+                "desc": "君权神授制是使用宗教作为国家统治工具的君主制，经常使用宗教组织来统治。"
             },
             "ko": {
-                "name": "Theocratic Monarchy",
-                "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule."
+                "name": "君权神授制",
+                "desc": "君权神授制是使用宗教作为国家统治工具的君主制，经常使用宗教组织来统治。"
             }
         },
         "stats": {
@@ -485,16 +485,16 @@ ideologies = [
         }
     },
     {
-        "name": "Homo-Fascism",
-        "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT.",
+        "name": "同性恋法西斯主义",
+        "desc": "同性恋法西斯主义者是文化上激进的法西斯主义者。他们对LGBT+非常支持。",
         "i18n": {
             "de": {
-                "name": "Homo-Fascism",
-                "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT."
+                "name": "同性恋法西斯主义",
+                "desc": "同性恋法西斯主义者是文化上激进的法西斯主义者。他们对LGBT+非常支持。"
             },
             "ko": {
-                "name": "Homo-Fascism",
-                "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT."
+                "name": "同性恋法西斯主义",
+                "desc": "同性恋法西斯主义者是文化上激进的法西斯主义者。他们对LGBT+非常支持。"
             }
     },
         "stats": {
@@ -508,16 +508,16 @@ ideologies = [
         }
      },
     {
-        "name": "Radical Theocracy",
-        "desc": "Radical Theocracy is a religious ideology that aims to spread its ideals by force. Once of the most popular variants is 'Radical Islam'.",
+        "name": "激进神权",
+        "desc": "激进神权是一种旨在通过武力传播其理想的宗教意识形态。曾经最流行的变体是“激进伊斯兰”。",
         "i18n": {
             "de": {
-                "name": "Radical Theocracy",
-                "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force."
+                "name": "激进神权",
+                "desc": "激进神权是一种旨在通过武力传播其理想的宗教意识形态。曾经最流行的变体是“激进伊斯兰”。"
             },
             "ko": {
-                "name": "Radical Theocracy",
-                "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force."
+                "name": "激进神权",
+                "desc": "激进神权是一种旨在通过武力传播其理想的宗教意识形态。曾经最流行的变体是“激进伊斯兰”。"
             }
         },
         "stats": {
@@ -531,16 +531,16 @@ ideologies = [
         }
     },
     {
-        "name": "Traditionalism / Reactionary Conservatism",
-        "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism.",
+        "name": "传统主义/反动保守主义",
+        "desc": "传统主义是一种意识形态，其思想是保存文化并退后一步，以恢复过去的政府体制，无论是帝国主义还是古典保守主义。",
         "i18n": {
             "de": {
-                "name": "Traditionalism / Reactionary Conservatism",
-                "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism."
+                "name": "传统主义/反动保守主义",
+                "desc": "传统主义是一种意识形态，其思想是保存文化并退后一步，以恢复过去的政府体制，无论是帝国主义还是古典保守主义。"
             },
             "ko": {
-                "name": "Traditionalism / Reactionary Conservatism",
-                "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism."
+                "name": "传统主义/反动保守主义",
+                "desc": "传统主义是一种意识形态，其思想是保存文化并退后一步，以恢复过去的政府体制，无论是帝国主义还是古典保守主义。"
             }
         },
         "stats": {
@@ -554,16 +554,16 @@ ideologies = [
         }
     },
     {
-        "name": "Eco-Fascism",
-        "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues.",
+        "name": "生态法西斯主义",
+        "desc": "生态法西斯主义是法西斯主义和环境保护主义的结合。他们非常关注环境问题。",
         "i18n": {
             "de": {
-                "name": "Eco-Fascism",
-                "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues."
+                "name": "生态法西斯主义",
+                "desc": "生态法西斯主义是法西斯主义和环境保护主义的结合。他们非常关注环境问题。"
             },
             "ko": {
-                "name": "Eco-Fascism",
-                "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues."
+                "name": "生态法西斯主义",
+                "desc": "生态法西斯主义是法西斯主义和环境保护主义的结合。他们非常关注环境问题。"
             }
     },
         "stats": {
@@ -577,16 +577,16 @@ ideologies = [
         }
      },
     {
-        "name": "Anarcho-Primitivism",
-        "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race.",
+        "name": "无政府原始主义",
+        "desc": "无政府原始主义旨在创建一个没有现代发明的社会。他们认为过去的简单生活更加幸福，并认为工业革命对人类是一场灾难。",
         "i18n": {
             "de": {
-                "name": "Anarcho-Primitivism",
-                "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race."
+                "name": "无政府原始主义",
+                "desc": "无政府原始主义旨在创建一个没有现代发明的社会。他们认为过去的简单生活更加幸福，并认为工业革命对人类是一场灾难。"
             },
             "ko": {
-                "name": "Anarcho-Primitivism",
-                "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race."
+                "name": "无政府原始主义",
+                "desc": "无政府原始主义旨在创建一个没有现代发明的社会。他们认为过去的简单生活更加幸福，并认为工业革命对人类是一场灾难。"
             }
         },
         "stats": {
@@ -600,16 +600,16 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Transhumanism",
-        "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society.",
+        "name": "无政府超人类主义",
+        "desc": "无政府超人类主义旨在改造人体以克服未来的挑战。他们希望通过无国籍社会来实现这一目标。",
         "i18n": {
             "de": {
-                "name": "Anarcho-Transhumanism",
-                "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society."
+                "name": "无政府超人类主义",
+                "desc": "无政府超人类主义旨在改造人体以克服未来的挑战。他们希望通过无国籍社会来实现这一目标。"
             },
             "ko": {
-                "name": "Anarcho-Transhumanism",
-                "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society."
+                "name": "无政府超人类主义",
+                "desc": "无政府超人类主义旨在改造人体以克服未来的挑战。他们希望通过无国籍社会来实现这一目标。"
             }
         },
         "stats": {
@@ -623,16 +623,16 @@ ideologies = [
         }
     },
     {
-        "name": "Pink Capitalism",
-        "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government.",
+        "name": "略左倾资本主义",
+        "desc": "略左倾资本主义是一种旨在将进步主义纳入资本主义的意识形态。它支持自由放任的市场，也倾向于支持最低限度的政府或不存在的政府。",
         "i18n": {
             "de": {
-                "name": "Pink Capitalism",
-                "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government."
+                "name": "略左倾资本主义",
+                "desc": "略左倾资本主义是一种旨在将进步主义纳入资本主义的意识形态。它支持自由放任的市场，也倾向于支持最低限度的政府或不存在的政府。"
             },
             "ko": {
-                "name": "Pink Capitalism",
-                "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government."
+                "name": "略左倾资本主义",
+                "desc": "略左倾资本主义是一种旨在将进步主义纳入资本主义的意识形态。它支持自由放任的市场，也倾向于支持最低限度的政府或不存在的政府。"
             }
         },
         "stats": {
@@ -646,16 +646,16 @@ ideologies = [
         }
     },
     {
-        "name": "Paleoconservatism",
-        "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism.",
+        "name": "古保守主义",
+        "desc": "古保守主义是保守主义的一种变体，它强调宗教，民族主义和传统主义。",
         "i18n": {
             "de": {
-                "name": "Paleolibetarianism",
-                "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism."
+                "name": "古保守主义",
+                "desc": "古保守主义是保守主义的一种变体，它强调宗教，民族主义和传统主义。"
             },
             "ko": {
-                "name": "Paleolibetarianism",
-                "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism."
+                "name": "古保守主义",
+                "desc": "古保守主义是保守主义的一种变体，它强调宗教，民族主义和传统主义。"
             }
         },
         "stats": {
@@ -669,16 +669,16 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
-        "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration.",
+        "name": "右翼民粹主义",
+        "desc": "右翼民粹主义是将右翼价值观与民粹主义相结合的意识形态。右翼民粹主义者通常是民族主义，保护主义，并支持更严格的移民限制。",
         "i18n": {
             "de": {
-                "name": "Right-Wing Populism",
-                "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration."
+                "name": "右翼民粹主义",
+                "desc": "右翼民粹主义是将右翼价值观与民粹主义相结合的意识形态。右翼民粹主义者通常是民族主义，保护主义，并支持更严格的移民限制。"
             },
             "ko": {
-                "name": "Right-Wing Populism",
-                "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration."
+                "name": "右翼民粹主义",
+                "desc": "右翼民粹主义是将右翼价值观与民粹主义相结合的意识形态。右翼民粹主义者通常是民族主义，保护主义，并支持更严格的移民限制。"
             }
         },
         "stats": {
@@ -692,16 +692,16 @@ ideologies = [
         }
     },
     {
-        "name": "Civic Nationalism",
-        "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality.",
+        "name": "公民民族主义",
+        "desc": "公民民族主义将民族主义与自由主义相结合。这是一种民族主义，支持自由主义和传统（按照西方标准）价值观，例如自由，个性和平等。",
         "i18n": {
             "de": {
-                "name": "Civic Nationalism",
-                "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality."
+                "name": "公民民族主义",
+                "desc": "公民民族主义将民族主义与自由主义相结合。这是一种民族主义，支持自由主义和传统（按照西方标准）价值观，例如自由，个性和平等。"
             },
             "ko": {
-                "name": "Civic Nationalism",
-                "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality."
+                "name": "公民民族主义",
+                "desc": "公民民族主义将民族主义与自由主义相结合。这是一种民族主义，支持自由主义和传统（按照西方标准）价值观，例如自由，个性和平等。"
             }
         },
         "stats": {
@@ -715,16 +715,16 @@ ideologies = [
         }
     },
     {
-        "name": "Progressive Conservatism",
-        "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking.",
+        "name": "渐进保守主义",
+        "desc": "渐进保守主义是保守价值观和进步价值观的结合。它认为社会需要改革，但需要通过保守思想来实现。",
         "i18n": {
             "de": {
-                "name": "Progressive Conservatism",
-                "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking."
+                "name": "渐进保守主义",
+                "desc": "渐进保守主义是保守价值观和进步价值观的结合。它认为社会需要改革，但需要通过保守思想来实现。"
             },
             "ko": {
-                "name": "Progressive Conservatism",
-                "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking."
+                "name": "渐进保守主义",
+                "desc": "渐进保守主义是保守价值观和进步价值观的结合。它认为社会需要改革，但需要通过保守思想来实现。"
             }
         },
         "stats": {
@@ -738,16 +738,16 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
-        "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals.",
+        "name": "古典自由主义",
+        "desc": "古典自由主义将个人自由和有限的政府视为自由社会的基础。 它是最初具有自由主义理想的意识形态之一。",
         "i18n": {
             "de": {
-                "name": "Classical Liberalism",
-                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals."
+                "name": "古典自由主义",
+                "desc": "古典自由主义将个人自由和有限的政府视为自由社会的基础。 它是最初具有自由主义理想的意识形态之一。"
             },
             "ko": {
-                "name": "Classical Liberalism",
-                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals."
+                "name": "古典自由主义",
+                "desc": "古典自由主义将个人自由和有限的政府视为自由社会的基础。 它是最初具有自由主义理想的意识形态之一。"
             }
         },
         "stats": {
@@ -761,3 +761,4 @@ ideologies = [
         }
     }
 ];
+
