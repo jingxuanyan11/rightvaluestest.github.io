@@ -1,7 +1,7 @@
 questions = [
     //preserve (Conserve) vs Reform 
     {
-        "question": "Culturally Right-Wing parties generally fits my views.",
+        "question": "文化右翼的政党通常符合我的观点。",
         "i18n": {
         },
         "effect": {
@@ -15,7 +15,7 @@ questions = [
         }
     },
     {
-        "question": "Slowly improving society by changing it little by little over time is the best way to run it.",
+        "question": "通过逐步改变社会来逐步改善社会是治理社会的最佳方法。",
         "i18n": {
         },
         "effect": {
@@ -29,7 +29,7 @@ questions = [
         }
     },
     {
-        "question": "A crackdown on pornography is beneficial to society.",
+        "question": "打击色情制品对社会有利。",
         "i18n": {
         },
         "effect": {
@@ -43,7 +43,7 @@ questions = [
         }
     },
     {
-        "question": "Weed should be legalized.",
+        "question": "毒品应合法化。",
         "i18n": {
         },
         "effect": {
@@ -57,7 +57,7 @@ questions = [
         }
     },
     {
-        "question": "The legalization of abortion is beneficial.",
+        "question": "堕胎合法化是有益的。",
         "i18n": {
         },
         "effect": {
@@ -71,7 +71,7 @@ questions = [
         }
     },
     {
-        "question": "The negatives of rapid reform outweighs its positives.",
+        "question": "快速改革的负面影响大于积极影响。",
         "i18n": {
         },
         "effect": {
@@ -85,7 +85,7 @@ questions = [
         }
     },
     {
-        "question": "More effort needs to be done to preserve our culture.",
+        "question": "需要做更多的努力来保存我们的文化。",
         "i18n": {
         },
         "effect": {
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Tradition holds back societies.",
+        "question": "传统阻碍了社会。",
         "i18n": {
         },
         "effect": {
@@ -113,7 +113,7 @@ questions = [
         }
     },
     {
-        "question": "Reforming in a quick manner often leads to the worsening of people's lives.",
+        "question": "快速改革经常导致人们生活的恶化。",
         "i18n": {
         },
         "effect": {
@@ -127,7 +127,7 @@ questions = [
         }
     },
     {
-        "question": "I support (Third/Fourth) Wave Feminism.",
+        "question": "我支持（第三/第四）波女权主义。",
         "i18n": {
         },
         "effect": {
@@ -141,7 +141,7 @@ questions = [
         }
     },
      {
-        "question": "The LGBT movement deserves more respect.",
+        "question": "LGBT+运动应该得到更多的尊重。",
         "i18n": {
         },
         "effect": {
@@ -155,7 +155,7 @@ questions = [
         }
     },
     {
-        "question": "Liberalism in modern times has descended into Post-Modernism.",
+        "question": "自由主义在近代时代已经演变为后现代主义。",
         "i18n": {
         },
         "effect": {
@@ -170,7 +170,7 @@ questions = [
     },
 //Stateown vs Market
     {
-        "question": "A Laissez-Faire economy causes monopolies to form, and worsens class divide.",
+        "question": "自由放任的经济导致垄断形成，并加剧了阶级分化。",
         "i18n": {
         },
         "effect": {
@@ -184,7 +184,7 @@ questions = [
         }
     },
     {
-        "question": "The phrase 'The freer the market, the freer the people' is correct in my opinion.",
+        "question": "在我看来，'市场越自由，人民越自由'是正确的。",
         "i18n": {
         },
         "effect": {
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Because joining a corporation is voluntary, there isn't true oppression within corporations.",
+        "question": "因为加入公司是自愿的，所以公司内部没有真正的压迫。",
         "i18n": {
         },
         "effect": {
@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "Economic regulation reduces the positive benefits of Capitalism.",
+        "question": "经济管制降低了资本主义的积极利益。",
         "i18n": {
         },
         "effect": {
@@ -226,7 +226,7 @@ questions = [
         }
     },
     {
-        "question": "The majority of the Rich deserve their property and money.",
+        "question": "大多数有钱人应该得到他们的财产和金钱。",
         "i18n": {
         },
         "effect": {
@@ -240,7 +240,7 @@ questions = [
         }
     },
     {
-        "question": "The gain of corporations directly correlate to the gain of the individual.",
+        "question": "公司的收益与个人的收益直接相关。",
         "i18n": {
         },
         "effect": {
@@ -254,7 +254,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minimal government alongside a fully functional market.",
+        "question": "我们应该有一个最低权力的政府，以及一个功能齐全的市场。",
         "i18n": {
         },
         "effect": {
@@ -268,7 +268,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect its consumers.",
+        "question": "政府有必要干预经济以保护其消费者。",
         "i18n": {
         },
         "effect": {
@@ -282,7 +282,7 @@ questions = [
         }
     },
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "公司的压迫比政府的压迫更令人关注。",
         "i18n": {
         },
         "effect": {
@@ -296,7 +296,7 @@ questions = [
         }
     },
     {
-        "question": "We need to have more welfare compared to what we have currently.",
+        "question": "与目前相比，我们需要有更多的福利。",
         "i18n": {
         },
         "effect": {
@@ -310,7 +310,7 @@ questions = [
         }
     },
     {
-        "question": "We should increase taxes in exchange for better welfare.",
+        "question": "我们应该增加税收以换取更好的福利。",
         "i18n": {
         },
         "effect": {
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Insurance should be used by the individual, voluntarily, rather than welfare.",
+        "question": "保险应由个人自愿使用，而非福利。",
         "i18n": {
         },
         "effect": {
@@ -338,7 +338,7 @@ questions = [
         }
     },
     {
-        "question": "Everyone should have free quality healthcare.",
+        "question": "每个人都应该有免费的优质医疗保健。",
         "i18n": {
         },
         "effect": {
@@ -352,7 +352,7 @@ questions = [
         }
     },
     {
-        "question": "A regulation-free economy does not work practically.",
+        "question": "无管制的经济实际上不起作用。",
         "i18n": {
         },
         "effect": {
@@ -366,7 +366,7 @@ questions = [
         }
     },
     {
-        "question": "Individualism is what powers society, and we should embrace it.",
+        "question": "个人主义是社会的动力，我们应该接受它。",
         "i18n": {
         },
         "effect": {
@@ -381,7 +381,7 @@ questions = [
     },
 //Central (Authority) vs Decentral (Liberty)
     {
-        "question": "A strong government is required for a safe society.",
+        "question": "一个安全的社会需要强大的政府。",
         "i18n": {
         },
         "effect": {
@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "A good leader should have the ability to pass on the throne to their family members.",
+        "question": "一个好的领导者应该有能力将王位传给他们的家人。",
         "i18n": {
         },
         "effect": {
@@ -409,7 +409,7 @@ questions = [
         }
     },
     {
-        "question": "Anarchism is not a workable concept practically.",
+        "question": "无政府主义实际上不是一个可行的概念。",
         "i18n": {
         },
         "effect": {
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "The leader should be passed on genetically.",
+        "question": "领导者应该世袭。",
         "i18n": {
         },
         "effect": {
@@ -437,7 +437,7 @@ questions = [
         }
     },
     {
-        "question": "A federal state gives more power to the individual, which is beneficial to the nation.",
+        "question": "联邦政府赋予个人更多权力，这对国家有利。",
         "i18n": {
         },
         "effect": {
@@ -451,7 +451,7 @@ questions = [
         }
     },
     {
-        "question": "Stronger governments increases the risk of tyranny, which makes a nation very unstable.",
+        "question": "更严格的政府增加了暴政的风险，这使一个国家非常不稳定。",
         "i18n": {
         },
         "effect": {
@@ -465,7 +465,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a totalitarian government than an anarchist one.",
+        "question": "我宁愿有一个极权政府，也要比无政府主义好。",
         "i18n": {
         },
         "effect": {
@@ -479,7 +479,7 @@ questions = [
         }
     },
     {
-        "question": "Democratic systems ultimately turn into a 2-Party system, which is not beneficial for anyone.",
+        "question": "民主制最终变成了两党制，这对任何人都没有好处。",
         "i18n": {
         },
         "effect": {
@@ -493,7 +493,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a constitutional monarchy than an absolute monarchy.",
+        "question": "我宁愿拥有君主立宪制，也不愿拥有绝对君主制。",
         "i18n": {
         },
         "effect": {
@@ -507,7 +507,7 @@ questions = [
         }
     },
      {
-        "question": "The rule of a selfless dictator is ideal for me.",
+        "question": "无私的独裁者的统治对我来说是理想的。",
         "i18n": {
         },
         "effect": {
@@ -521,7 +521,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather choose democracy over dictatorship.",
+        "question": "我宁愿选择民主而不是专政。",
         "i18n": {
         },
         "effect": {
@@ -536,7 +536,7 @@ questions = [
     },
 //Nation (Morality) vs World (Peace)
     {
-        "question": "My nation's ideals are better than most other nation's ideals.",
+        "question": "我国家的理想比大多数其他国家的理想都要好。",
         "i18n": {
         },
         "effect": {
@@ -550,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than spreading our ideals, we should primarily work on peace and particularism.",
+        "question": "我们不应该传播我们的理想，而应该主要致力于和平与特殊主义。",
         "i18n": {
         },
         "effect": {
@@ -564,7 +564,7 @@ questions = [
         }
     },
     {
-        "question": "Countries with authoritarian regimes should be invaded in order to give people overseas liberty and freedom.",
+        "question": "应当侵害具有威权政权的国家，以便给人们海外自由和自由。",
         "i18n": {
         },
         "effect": {
@@ -578,7 +578,7 @@ questions = [
         }
     },
     {
-        "question": "International alliances are generally beneficial.",
+        "question": "国际联盟通常是有益的。",
         "i18n": {
         },
         "effect": {
@@ -592,7 +592,7 @@ questions = [
         }
     },
     {
-        "question": "We should focus more on issues outside of our nation.",
+        "question": "我们应该更加关注我们国家以外的问题。",
         "i18n": {
         },
         "effect": {
@@ -606,7 +606,7 @@ questions = [
         }
     },
     {
-        "question": "We should avoid conflict when possible.",
+        "question": "我们应该尽可能避免冲突。",
         "i18n": {
         },
         "effect": {
@@ -620,7 +620,7 @@ questions = [
         }
     },
     {
-        "question": "The enemy of my enemy is my friend.",
+        "question": "敌人的敌人是我的朋友。",
         "i18n": {
         },
         "effect": {
@@ -634,7 +634,7 @@ questions = [
         }
     },
      {
-        "question": "Immigration should be easier than it is now.",
+        "question": "移民应该比现在更容易。",
         "i18n": {
         },
         "effect": {
@@ -648,7 +648,7 @@ questions = [
         }
     },
     {
-        "question": "Having too much immigrants lead to economic decline and ideological radicalization.",
+        "question": "移民过多导致经济衰退和意识形态激进。",
         "i18n": {
         },
         "effect": {
@@ -662,7 +662,7 @@ questions = [
         }
     },
     {
-        "question": "Illegal immigration is morally wrong in most cases.",
+        "question": "在大多数情况下，非法移民在道德上是错误的。",
         "i18n": {
         },
         "effect": {
@@ -676,7 +676,7 @@ questions = [
         }
     },
     {
-        "question": "Illegal immigrants and regular citizens deserve the same treatments.",
+        "question": "非法移民和普通公民应享有同样的待遇。",
         "i18n": {
         },
         "effect": {
@@ -691,7 +691,7 @@ questions = [
     },
 //Religious vs Secular
     {
-        "question": "My religion should be spread as much as possible.",
+        "question": "我的宗教信仰应尽可能地传播。",
         "i18n": {
         },
         "effect": {
@@ -705,7 +705,7 @@ questions = [
         }
     },
     {
-        "question": "Theocracy brings many benefits.",
+        "question": "神权统治带来许多好处。",
         "i18n": {
         },
         "effect": {
@@ -719,7 +719,7 @@ questions = [
         }
     },
     {
-        "question": "Religion is just fiction for humans to develop.",
+        "question": "宗教只是人类发展的插曲。",
         "i18n": {
         },
         "effect": {
@@ -733,7 +733,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a much smaller role compared to the present.",
+        "question": "宗教的作用应该比现在小得多。",
         "i18n": {
         },
         "effect": {
@@ -747,7 +747,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed, like most other organizations.",
+        "question": "教会应该像大多数其他组织一样被征税。",
         "i18n": {
         },
         "effect": {
@@ -761,7 +761,7 @@ questions = [
         }
     },
     {
-        "question": "Theocracy often leads to corruption and distortion of religion.",
+        "question": "神权统治经常导致宗教的腐败和歪曲。",
         "i18n": {
         },
         "effect": {
@@ -775,7 +775,7 @@ questions = [
         }
     },
     {
-        "question": "The recent increase of depression is caused by the rise of Secularism and Atheism.",
+        "question": "最近抑郁症的加剧是由世俗主义和无神论的兴起引起的。",
         "i18n": {
         },
         "effect": {
@@ -789,7 +789,7 @@ questions = [
         }
     },
     {
-        "question": "Religious organizations often provide better help for the underprivileged compared to secular non-profits.",
+        "question": "与世俗的非营利组织相比，宗教组织通常为弱势群体提供更好的帮助。",
         "i18n": {
         },
         "effect": {
@@ -804,7 +804,7 @@ questions = [
     },
 //Industry vs Nature
     {
-        "question": "Rapid technological advancement causes more harm than good.",
+        "question": "迅速的技术进步带来的弊大于利。",
         "i18n": {
         },
         "effect": {
@@ -818,7 +818,7 @@ questions = [
         }
     },
     {
-        "question": "Life before the industrial revolution was much better.",
+        "question": "工业革命之前的生活要好得多。",
         "i18n": {
         },
         "effect": {
@@ -832,7 +832,7 @@ questions = [
         }
     },
     {
-        "question": "Life is getting too complicated, and we should take a step back.",
+        "question": "生活太复杂了，我们应该回到过去。",
         "i18n": {
         },
         "effect": {
@@ -846,7 +846,7 @@ questions = [
         }
     },
     {
-        "question": "We should accelerate our technological progress.",
+        "question": "我们应该加快技术进步。",
         "i18n": {
         },
         "effect": {
@@ -860,7 +860,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than trying to restrict factories, we should let technology advance and find an easier solution in the future.",
+        "question": "我们不应该试图限制工厂，而应该让技术进步，在未来找到一个更容易的解决办法。",
         "i18n": {
         },
         "effect": {
@@ -874,7 +874,7 @@ questions = [
         }
     },
     {
-        "question": "Decelerating our society could mean a harder life, but overall it's worth it considering the happiness deceleration would bring.",
+        "question": "我们的社会减速可能意味着更艰难的生活，但总的来说，考虑到减速将带来的幸福是值得的。",
         "i18n": {
         },
         "effect": {
@@ -888,7 +888,7 @@ questions = [
         }
     },
     {
-        "question": "Transhumanism lets us overcome challenges of our human body, which is necessary for humanity to progress further.",
+        "question": "超人类主义使我们克服了人类前进所必需的人体挑战。",
         "i18n": {
         },
         "effect": {
@@ -902,7 +902,7 @@ questions = [
         }
     },
     {
-        "question": "The more we accelerate, the more risks there are.",
+        "question": "我们越加速，风险就越大。",
         "i18n": {
         },
         "effect": {
@@ -916,7 +916,7 @@ questions = [
         }
     },
     {
-        "question": "We should aim for a simpler life, which brings us happiness.",
+        "question": "我们应该追求简单的生活，这会带给我们幸福。",
         "i18n": {
         },
         "effect": {
@@ -931,7 +931,7 @@ questions = [
     },
 //Race vs Equality
     {
-        "question": "Race is the ultimate difference between humans.",
+        "question": "种族是人类之间的终极差异。",
         "i18n": {
         },
         "effect": {
@@ -945,7 +945,7 @@ questions = [
         }
     },
     {
-        "question": "Ethnic Nationalism is a dangerous ideology.",
+        "question": "种族民族主义是一种危险的意识形态。",
         "i18n": {
         },
         "effect": {
@@ -959,7 +959,7 @@ questions = [
         }
     },
     {
-        "question": "We should judge people by their character rather than their race.",
+        "question": "我们应该根据人物而不是种族来评判人们。",
         "i18n": {
         },
         "effect": {
@@ -973,7 +973,7 @@ questions = [
         }
     },
     {
-        "question": "The Nazi regime of Germany has taught us to not judge anybody by their race.",
+        "question": "德国的纳粹政权让我们意识到不要以种族来评判任何人。",
         "i18n": {
         },
         "effect": {
@@ -987,7 +987,7 @@ questions = [
         }
     },
     {
-        "question": "Unrest within certain regions of Africa is mainly caused by racial difference.",
+        "question": "非洲某些地区的动荡主要是由于种族差异造成的。",
         "i18n": {
         },
         "effect": {
@@ -1001,7 +1001,7 @@ questions = [
         }
     },
     {
-        "question": "Racism will always exist within society, so there's no point at trying to 'fix' Racism.",
+        "question": "种族主义将始终存在于社会中，因此没有必要试图'解决'种族主义。",
         "i18n": {
         },
         "effect": {
@@ -1015,7 +1015,7 @@ questions = [
         }
     },
     {
-        "question": "Affirmative action should not be considered 'Racism'.",
+        "question": "平权行动不应被视为“种族主义”。",
         "i18n": {
         },
         "effect": {
@@ -1031,3 +1031,4 @@ questions = [
     
 
 ];
+
