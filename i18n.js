@@ -60,8 +60,8 @@ const i18n = {
         "ko": "동의"
     },
     "quiz-neutral": {
-        "en": "Neutral/Unsure",
-        "de": "Neutral/Unsicher",
+        "en": "中立/Unsure",
+        "de": "中立/Unsicher",
         "ko": "중립/잘 모름"
     },
     "quiz-disagree": {
@@ -143,39 +143,39 @@ const i18n = {
     },
     
        "result-a-label": {
-        "en": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
-        "de": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
-        "ko": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"]
+        "en": ["反动派","进步派","改革派","中立","保守派","传统派","反动派"],
+        "de": ["反动派","进步派","改革派","中立","保守派","传统派","反动派"],
+        "ko": ["反动派","进步派","改革派","中立","保守派","传统派","反动派"]
     },
     "result-b-label": {
-        "en": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
-        "de": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
-        "ko": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"]
+        "en": ["计划经济","干预经济","管制经济","中立","有限管制","自由市场","自由放任"],
+        "de": ["计划经济","干预经济","管制经济","中立","有限管制","自由市场","自由放任"],
+        "ko": ["计划经济","干预经济","管制经济","中立","有限管制","自由市场","自由放任"]
     },
     "result-c-label": {
-        "en": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "de": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "ko": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"]
+        "en": ["极权主义","保皇派","国家主义","中立","民主派","自由主义","无政府主义"],
+        "de": ["极权主义","保皇派","国家主义","中立","民主派","自由主义","无政府主义"],
+        "ko": ["极权主义","保皇派","国家主义","中立","民主派","自由主义","无政府主义"]
     },
     "result-d-label": {
-        "en": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"],
-        "de": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"],
-        "ko": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"]
+        "en": ["相对主义","特殊主义","和平主义","中立","外交干预主义","普遍主义","帝国主义"],
+        "de": ["相对主义","特殊主义","和平主义","中立","外交干预主义","普遍主义","帝国主义"],
+        "ko": ["相对主义","特殊主义","和平主义","中立","外交干预主义","普遍主义","帝国主义"]
     },
     "result-e-label": {
-        "en": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"],
-        "de": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"],
-        "ko": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"]
+        "en": ["君权神授","宗教威权主义","宗教影响政治","中立","反教权主义","世俗国家","无神论"],
+        "de": ["君权神授","宗教威权主义","宗教影响政治","中立","反教权主义","世俗国家","无神论"],
+        "ko": ["君权神授","宗教威权主义","宗教影响政治","中立","反教权主义","世俗国家","无神论"]
     },
     "result-f-label": {
-        "en": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"],
-        "de": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"],
-        "ko": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"]
+        "en": ["超人类主义","加速主义","倾向科技","中立","人本主义","减速主义","原始主义"],
+        "de": ["超人类主义","加速主义","倾向科技","中立","人本主义","减速主义","原始主义"],
+        "ko": ["超人类主义","加速主义","倾向科技","中立","人本主义","减速主义","原始主义"]
     },
     "result-g-label": {
-        "en": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"],
-        "de": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"],
-        "ko": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"]
+        "en": ["种族认同","种族民族主义","种族现实主义","中立","种族平等","反种族主义","种族无差别"],
+        "de": ["种族认同","种族民族主义","种族现实主义","中立","种族平等","反种族主义","种族无差别"],
+        "ko": ["种族认同","种族民族主义","种族现实主义","中立","种族平等","反种族主义","种族无差别"]
     },
     
     "result-back": {
@@ -261,7 +261,7 @@ const i18n = {
         "ko": `<b style="color:#804E00;">생산</b> <b>vs.</b> <b style="color:#76890B;">생태</b><br/> 생산주의 점수가 높을 수록 생태학적 목표보다 산업 생산량과 산업의 지속가능성을 우선시하는 경향이 있습니다. 높은 생태주의 점수를 가진 사람들은 엄격한 생태 보호를 통한 환경 지향적 경제를 지지하는 경향이 있습니다.`
     },
     "index-cons-desc": {
-        "en": "<b style='color:#27577A;'>Conservative</b> <b>vs.</b> <b style='color:#C4A717;'>Progressive</b><br/>" +
+        "en": "<b style='color:#27577A;'>保守派</b> <b>vs.</b> <b style='color:#C4A717;'>进步派</b><br/>" +
         "Those with a higher conservative score tend to favor more socially conservative policies and views. Those with a higher progressive score tend to support more socially progressive policies and views.",
         "de": "<b style='color:#27577A;'>Konservativ</b> <b>vs.</b> <b style='color:#C4A717;'>Progressiv</b><br/>" +
         "Diejenigen mit einer höheren konservativen Bewertung tendieren dazu, sozial konservativere Strategien und Ansichten zu bevorzugen. Diejenigen mit einer höheren progressiven Punktzahl unterstützen tendenziell eine sozial progressivere Politik und Sichtweise.",
@@ -273,7 +273,7 @@ const i18n = {
         "ko": `결과의 "가장 일치하는 성향"이 무엇을 의미합니까?`
     },
     "index-p-similar": {
-        "en": "Similar to 8values, this quiz will attempt to match you with a specific leftist ideology. There are currently twelve possible ideologies, with more to come in the future. This is a work in progress and may not work as intended. Suggestions are very welcome. The current ideologies are: Marxism-Leninism, Orthodox Marxism, Eco-Marxism, Centrist Marxism, Council Communism, Left Communism, Anarcho-Communism, Eco-Anarchism, Market Anarchism, Utopian Socialism, Democratic Socialism and Social Democracy",
+        "en": "Similar to 8values, this quiz will attempt to match you with a specific leftist ideology. There are currently twelve possible ideologies, with more to come in the future. This is a work in progress and may not work as intended. Suggestions are very welcome. The current ideologies are: Marxism-Leninism, Orthodox Marxism, Eco-Marxism, Centrist Marxism, Council Communism, Left Communism, Anarcho-Communism, Eco-Anarchism, Market Anarchism, Utopian Socialism, 民主派 Socialism and Social Democracy",
         "de": "Ähnlich wie bei 8values wird dieses Quiz versuchen, Sie mit einer bestimmten linken Ideologie in Einklang zu bringen. Derzeit gibt es zwölf mögliche Ideologien, von denen in Zukunft weitere folgen werden. Dies ist eine laufende Arbeit und funktioniert möglicherweise nicht wie beabsichtigt. Vorschläge sind sehr willkommen. Die gegenwärtigen Ideologien sind: Marxismus-Leninismus, orthodoxer Marxismus, Öko-Marxismus, zentristischer Marxismus, Kommunismus des Rates, Linkskommunismus, Anarcho-Kommunismus, Öko-Anarchismus, Marktanarchismus, utopischer Sozialismus, demokratischer Sozialismus und Sozialdemokratie",
         "ko": "8Values와 비슷하게, 이 설문은 특정한 좌파 이념과 당신을 짝지으려 할 것입니다. 현재 12개의 가능한 이념이 있고, 미래에는 더 많은 이념들이 있을 수 있습니다. 이는 진행중인 작업이며, 의도한대로 작동하지 않을 수도 있습니다. 제안은 언제나 환영합니다. 현재 준비된 이념은 마르크스-레닌주의, 정통 마르크스주의, 생태-마르크스주의, 중도 마르크스주의, 평의회 공산주의, 좌익 공산주의, 아나코-코뮤니즘, 생태-아나키즘, 시장 아나키즘, 공상적 사회주의, 민주사회주의, 사회민주주의 등이 있습니다."
     },
@@ -326,4 +326,5 @@ if (langPicker) {
         location.reload()
     }   
 }
+
 
