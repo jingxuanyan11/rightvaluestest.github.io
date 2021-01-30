@@ -1,7 +1,7 @@
 questions = [
     //preserve (Conserve) vs Reform 
     {
-        "question": "文化右翼的政党通常符合我的观点。",
+        "question": "保守党通常符合我的观点。",
         "i18n": {
         },
         "effect": {
