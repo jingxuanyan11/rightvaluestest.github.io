@@ -80,7 +80,7 @@ const i18n = {
         "ko": "뒤로"
     },
     "quiz-question-of": {
-        en(qn, questions) {return `Question ${qn + 1} of ${questions.length}`},
+        en(qn, questions) {return `第 ${qn + 1} 题，共 ${questions.length} 题`},
         de(qn, questions) {return `Frage ${qn +1} von ${questions.length}`},
         ko(qn, questions) {return `${questions.length}개 질문 중 ${qn +1} 번째`}
     },
@@ -326,3 +326,4 @@ if (langPicker) {
         location.reload()
     }   
 }
+
